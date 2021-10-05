@@ -1,3 +1,4 @@
+
 name = "gusion"
 age = 19
 role = ["mage", "assassin"]
